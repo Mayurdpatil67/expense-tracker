@@ -21,4 +21,5 @@ public class Expense {
     public String toString() {
         return "[" + category + "] $" + amount + " - " + description;
     }
+    
 }
