@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expense Tracker 
 
 ## Purpose
 - To get familier with Collections, Stream, Lamdas and Functional Programming (Java-8)
